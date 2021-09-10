@@ -3,3 +3,8 @@
 /obj
 /object
 /packages
+bin/
+debug/
+obj/
+object/
+packages/
