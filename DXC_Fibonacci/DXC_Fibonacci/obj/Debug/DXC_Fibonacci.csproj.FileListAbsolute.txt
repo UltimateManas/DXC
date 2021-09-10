@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\DXC\DXC_Fibonacci\DXC_Fibonacci\bin\Debug\DXC_Fibonacci.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\DXC\DXC_Fibonacci\DXC_Fibonacci\bin\Debug\DXC_Fibonacci.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\DXC\DXC_Fibonacci\DXC_Fibonacci\bin\Debug\DXC_Fibonacci.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\DXC\DXC_Fibonacci\DXC_Fibonacci\obj\Debug\DXC_Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\DXC\DXC_Fibonacci\DXC_Fibonacci\obj\Debug\DXC_Fibonacci.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\DXC\DXC_Fibonacci\DXC_Fibonacci\obj\Debug\DXC_Fibonacci.pdb
